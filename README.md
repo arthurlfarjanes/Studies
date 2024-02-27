@@ -1,2 +1,2 @@
-# 3DS2
-Repositório de projetos do 3º módulo do curso de Técnico em Desenvolvimento de Sistemas.
+# Projetos de estudo
+Repositório de projetos com finalidade estudantil realizados por conta.
